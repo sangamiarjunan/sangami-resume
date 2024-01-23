@@ -1,0 +1,17 @@
+table,th,tr,td{
+    border: 1px solid brown;
+}
+h1{
+    color: bisque;
+    
+}
+.header{
+    background-color: brown;
+}
+h3{
+    color: bisque;
+}
+.bottom{
+    background-color: bisque;
+    color: brown;
+}
